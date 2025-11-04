@@ -1,2 +1,0 @@
-# love
-Our first anniversary
